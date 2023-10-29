@@ -1,4 +1,4 @@
-# Auto-AList-docker-for-Zeabur
+# Alist-zeabur
 
 ### 如何使用？
 
